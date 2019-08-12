@@ -15,11 +15,14 @@ p {
   letter-spacing: 1.5px; }
 
 nav,
-#customers {
+#customers,
+#hotels,
+#footer {
   background-color: #323d47; }
 
 #about,
-#available {
+#available,
+#contact {
   background-color: #1c2228; }
 
 /*************************** NAVIGATION ************************/

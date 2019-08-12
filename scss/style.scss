@@ -23,12 +23,15 @@ p {
 }
 
 nav,
-#customers {
+#customers,
+#hotels,
+#footer {
   background-color: $primary-color;
 }
 
 #about,
-#available {
+#available,
+#contact {
   background-color: $secondary-color;
 }
 
