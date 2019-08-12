@@ -1,0 +1,36 @@
+$primary-color: #323d47;
+$secondary-color: #1c2228;
+$button-color: #c68f56;
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.container {
+  width: 100%;
+}
+
+nav {
+  background-color: $primary-color;
+}
+
+/*************************** NAVIGATION ************************/
+.navbar {
+  display: block;
+  padding: 10px 0;
+  z-index: 1;
+  ul {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
+
+.navbar-nav {
+  a {
+    color: #d6d1d1;
+    font-family: "Times New Roman", Times, serif;
+  }
+}
