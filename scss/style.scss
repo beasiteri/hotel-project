@@ -126,3 +126,30 @@ header {
     display: inline;
   }
 }
+
+/*************************** BUTTONS ****************************/
+.btn {
+  background-color: #c68f56;
+  border: none;
+  padding: 5px 25px;
+  font-size: 14px;
+  color: #fff;
+}
+
+.btn-login {
+  width: 100px;
+  font-family: "Montserrat", sans-serif !important;
+}
+
+.btn-signup {
+  width: 100px;
+  background-color: transparent;
+  border: 1px solid #c68f56;
+  font-family: "Montserrat", sans-serif !important;
+}
+
+.btn-contact {
+  color: #d6d1d1 !important;
+  margin-left: 220px;
+  margin-top: 10px;
+}
