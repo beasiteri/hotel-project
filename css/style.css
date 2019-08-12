@@ -133,3 +133,17 @@ header {
     top: 20px;
     right: 20px;
     cursor: pointer; }
+
+/*********************** COLLAPSE MENU ******************************/
+.hamburger-menu {
+  background-color: #1c2228;
+  height: 70px;
+  display: none; }
+  .hamburger-menu .navbar-toggler-icon {
+    padding-left: 4px;
+    color: #d6d1d1;
+    border: 1px solid #d6d1d1;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    cursor: pointer; }
