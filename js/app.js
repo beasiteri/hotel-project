@@ -22,3 +22,10 @@ $("#main-nav a").on("click", function(event) {
     );
   }
 });
+
+// Collapse Menu
+$(document).ready(function() {
+  $(".navbar-toggler-icon").click(function() {
+    $("#main-nav").toggleClass("active-menu");
+  });
+});
