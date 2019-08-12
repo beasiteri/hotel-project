@@ -14,7 +14,8 @@ p {
   font-size: 14px;
   letter-spacing: 1.5px; }
 
-nav {
+nav,
+#customers {
   background-color: #323d47; }
 
 /*************************** NAVIGATION ************************/
