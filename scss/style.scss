@@ -10,6 +10,18 @@ body {
   width: 100%;
 }
 
+h1 {
+  font-family: "Libre Caslon Text", serif;
+  color: #d6d1d1;
+  font-size: 22px;
+}
+
+p {
+  color: #d6d1d1;
+  font-size: 14px;
+  letter-spacing: 1.5px;
+}
+
 nav {
   background-color: $primary-color;
 }
@@ -33,6 +45,10 @@ nav {
     color: #d6d1d1;
     font-family: "Times New Roman", Times, serif;
   }
+}
+
+#about {
+  background-color: $secondary-color;
 }
 
 /*************************** HEADER **************************/
@@ -62,4 +78,9 @@ header {
     border: 2px solid #ffffff;
     border-radius: 5px;
   }
+}
+
+/*************************** ABOUT **************************/
+#about p {
+  margin-bottom: 80px;
 }
