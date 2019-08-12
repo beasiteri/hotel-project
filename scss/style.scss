@@ -156,3 +156,20 @@ header {
   margin-left: 220px;
   margin-top: 10px;
 }
+
+/*********************** COLLAPSE MENU ******************************/
+.hamburger-menu {
+  background-color: #1c2228;
+  height: 70px;
+  display: none;
+
+  .navbar-toggler-icon {
+    padding-left: 4px;
+    color: #d6d1d1;
+    border: 1px solid #d6d1d1;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+  }
+}
