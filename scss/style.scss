@@ -27,6 +27,11 @@ nav,
   background-color: $primary-color;
 }
 
+#about,
+#available {
+  background-color: $secondary-color;
+}
+
 /*************************** NAVIGATION ************************/
 .navbar {
   display: block;
@@ -46,10 +51,6 @@ nav,
     color: #d6d1d1;
     font-family: "Times New Roman", Times, serif;
   }
-}
-
-#about {
-  background-color: $secondary-color;
 }
 
 /*************************** HEADER **************************/

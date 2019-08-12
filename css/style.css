@@ -18,6 +18,10 @@ nav,
 #customers {
   background-color: #323d47; }
 
+#about,
+#available {
+  background-color: #1c2228; }
+
 /*************************** NAVIGATION ************************/
 .navbar {
   display: block;
@@ -33,9 +37,6 @@ nav,
 .navbar-nav a {
   color: #d6d1d1;
   font-family: "Times New Roman", Times, serif; }
-
-#about {
-  background-color: #1c2228; }
 
 /*************************** HEADER **************************/
 header {
