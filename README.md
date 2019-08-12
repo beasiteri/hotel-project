@@ -18,7 +18,7 @@ There are also implemented:
 
 ## Screenshot of the page
 
-![](img/screencapture-hotel-project.png)
+![](images/screencapture-hotel-project.png)
 
 ## External Resources Used
 
